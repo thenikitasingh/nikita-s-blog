@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-theme-sky-lite-starter",
+  "name": "Nikita's Blog",
   "version": "1.3.2",
   "main": "index.js",
-  "author": "Ryan Bell <ryanbell@gmail.com> (@iRyanBell)",
+  "author": "Nikita Singh <nikita.singh9431@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "gatsby develop",
@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vim-labs/gatsby-theme-sky-lite-starter.git"
+    "url": "https://github.com/thenikitasingh/nikita-s-blog.git"
   },
   "bugs": {
     "url": "https://github.com/vim-labs/gatsby-theme-sky-lite-starter/issues"
   },
-  "homepage": "https://github.com/vim-labs/gatsby-theme-sky-lite-starter#readme"
+  "homepage": "https://github.com/thenikitasingh/nikita-s-blog"
 }

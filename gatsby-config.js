@@ -1,24 +1,24 @@
 module.exports = {
   siteMetadata: {
-    title: `Sky Lite`,
-    siteUrl: `https://yoursite.com`,
-    description: `A lightweight GatsbyJS starter base with Material-UI and MDX Markdown support.`,
+    title: `Nikita`,
+    siteUrl: `https://nikitablog.netlify.com/`,
+    description: `On a journey to upskill myself`,
     components: {
       appbar: {
         position: "sticky",
         links: [
           {
-            title: "Doc 1",
-            url: "/doc1"
+            title: "Skill 1",
+            url: "/skill1"
           },
           {
-            title: "Doc 2",
-            url: "/doc2"
+            title: "Skill 2",
+            url: "/skill2"
           }
         ]
       },
       footer: {
-        copyright: "yoursite.com",
+        copyright: "nikitablog.netlify.com",
         columns: [
           {
             heading: "Column 1",
